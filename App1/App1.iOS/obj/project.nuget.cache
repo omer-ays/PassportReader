@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPqdyucq8D6zmNPzXFSMqaAMgjP5mwahRzusVh3YD2GLH7rpoTRuy/5fX/eLeVWJzLw5U7UJE1gwDE9Ujty2CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omer.kocaman\\source\\repos\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.build.download\\0.10.0\\xamarin.build.download.0.10.0.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.firebase.ios.abtesting\\4.2.0\\xamarin.firebase.ios.abtesting.4.2.0.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.firebase.ios.core\\6.10.4\\xamarin.firebase.ios.core.6.10.4.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.firebase.ios.installations\\1.7.0\\xamarin.firebase.ios.installations.1.7.0.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.firebase.ios.instanceid\\4.8.0\\xamarin.firebase.ios.instanceid.4.8.0.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.firebase.ios.mlkit\\0.21.0\\xamarin.firebase.ios.mlkit.0.21.0.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.firebase.ios.mlkit.common\\0.21.0\\xamarin.firebase.ios.mlkit.common.0.21.0.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.firebase.ios.mlkit.modelinterpreter\\0.21.0\\xamarin.firebase.ios.mlkit.modelinterpreter.0.21.0.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.firebase.ios.mlkit.naturallanguage\\0.18.0\\xamarin.firebase.ios.mlkit.naturallanguage.0.18.0.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.firebase.ios.mlkit.vision\\0.21.0\\xamarin.firebase.ios.mlkit.vision.0.21.0.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.firebase.ios.remoteconfig\\4.9.1\\xamarin.firebase.ios.remoteconfig.4.9.1.nupkg.sha512",
+    "C:\\Users\\omer.kocaman\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
